@@ -1,0 +1,1 @@
+OpenCV ve TensorFlow kullanılarak Python dilinde yapılan bu projede MNIST veri seti kullanılarak bir model eğitilmiş ve bu modelin testleri kamera bağlantısı kullanılarak gerçekleştirilmiştir. İyi çalışmalar dilerim.
